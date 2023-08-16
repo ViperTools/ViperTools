@@ -65,7 +65,7 @@ I do a bunch of different things and use many different languages. I mainly post
 </a>
 <a href="https://www.autodesk.com/products/fusion-360/overview">
 <img src="https://viper.tools/badges/Fusion360.svg">
-</a>
+</a> \
 <a href="https://git-scm.com/">
 <img src="https://viper.tools/badges/Git.svg">
 </a>
