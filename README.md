@@ -1,6 +1,16 @@
 ## Hello, I am Viper.
 I do a bunch of different things and use many different languages. I mainly post random projects that I make in my free time. I am currently working on [Smake](https://github.com/Syntad/smake).
 
+## 📘Projects
+
+[Vapor](https://github.com/ViperTools/Vapor)\
+[Smake](https://github.com/Syntad/smake)\
+[RoBeats External](https://github.com/ViperTools/RoBeats-External-Autoplayer)\
+[HCSS](https://github.com/ViperTools/HCSS)\
+[Luau Bundle](https://github.com/ViperTools/LuauBundle)\
+[Tidal Inject](https://github.com/ViperTools/Tidal-Inject)\
+[Tidal Server](https://github.com/ViperTools/Tidal-Song-API-Server)
+
 ## 🖥️ Technologies
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
