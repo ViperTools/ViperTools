@@ -32,6 +32,9 @@ I do a bunch of different things and use many different languages. I mainly post
 <a href="https://en.wikipedia.org/wiki/CSS">
 <img src="https://viper.tools/badges/CSS.svg?a=1">
 </a>
+<a href="https://learn.microsoft.com/en-us/windows/apps/winui/">
+<img src="https://viper.tools/badges/XAML.svg?a=1">
+</a>
 <a href="https://www.nasm.us/">
 <img src="https://viper.tools/badges/NASM.svg?a=1">
 </a>
@@ -49,9 +52,6 @@ I do a bunch of different things and use many different languages. I mainly post
 </a>
 <a href="https://www.javascript.com/">
 <img src="https://viper.tools/badges/JS.svg?a=1">
-</a>
-<a href="https://learn.microsoft.com/en-us/windows/apps/winui/">
-<img src="https://viper.tools/badges/XAML.svg?a=1">
 </a>
 <a href="https://www.java.com/en/">
 <img src="https://viper.tools/badges/Java.svg?a=1">
