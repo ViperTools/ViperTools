@@ -19,6 +19,12 @@ I do a bunch of different things and use many different languages. I mainly post
 <a href="https://cplusplus.com/">
 <img src="https://viper.tools/badges/CPP.svg">
 </a>
+<a href="https://learn.microsoft.com/en-us/windows/apps/winui/">
+<img src="https://viper.tools/badges/XAML.svg">
+</a>
+<a href="https://learn.microsoft.com/en-us/powershell/">
+<img src="https://viper.tools/badges/Powershell.svg">
+</a>
 <a href="https://en.wikipedia.org/wiki/CSS">
 <img src="https://viper.tools/badges/CSS.svg">
 </a>
@@ -28,17 +34,11 @@ I do a bunch of different things and use many different languages. I mainly post
 <a href="https://create.roblox.com/">
 <img src="https://viper.tools/badges/RobloxStudio.svg">
 </a>
-<a href="https://learn.microsoft.com/en-us/windows/apps/winui/">
-<img src="https://viper.tools/badges/XAML.svg">
-</a>
-<a href="https://learn.microsoft.com/en-us/powershell/">
-<img src="https://viper.tools/badges/Powershell.svg">
+<a href="https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list">
+<img src="https://viper.tools/badges/WinAPI.svg">
 </a>
 <a href="https://www.nasm.us/">
 <img src="https://viper.tools/badges/NASM.svg">
-</a>
-<a href="https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list">
-<img src="https://viper.tools/badges/WinAPI.svg">
 </a>
 <a href="https://dotnet.microsoft.com/en-us/">
 <img src="https://viper.tools/badges/CS.svg">
