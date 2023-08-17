@@ -40,16 +40,12 @@ I do a bunch of different things and use many different languages. I mainly post
 <a href="https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list">
 <img src="https://viper.tools/badges/WinAPI.svg">
 </a>
-
 <a href="https://dotnet.microsoft.com/en-us/">
 <img src="https://viper.tools/badges/CS.svg">
 </a>
 <a href="https://graphql.org/">
 <img src="https://viper.tools/badges/GraphQL.svg">
 </a>
-
-
-
 <a href="https://html.com/">
 <img src="https://viper.tools/badges/HTML.svg">
 </a>
@@ -62,18 +58,15 @@ I do a bunch of different things and use many different languages. I mainly post
 <a href="https://git-scm.com/">
 <img src="https://viper.tools/badges/Git.svg">
 </a>
-
 <a href="https://www.javascript.com/">
 <img src="https://viper.tools/badges/JS.svg">
 </a>
-
 <a href="https://www.arduino.cc/">
 <img src="https://viper.tools/badges/Arduino.svg">
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
 <img src="https://viper.tools/badges/ASP.svg">
 </a>
-
 <a href="https://www.java.com/en/">
 <img src="https://viper.tools/badges/Java.svg">
 </a>
@@ -86,7 +79,6 @@ I do a bunch of different things and use many different languages. I mainly post
 <a href="https://www.gnu.org/software/bash/">
 <img src="https://viper.tools/badges/Bash.svg">
 </a>
-
 
 ## 🔗 Connect with me
 <a href="https://discord.com/invite/qEgGGy69Kw">
